@@ -4,6 +4,10 @@
 
 - `apollo`
   - Fix configuration loading and schema tag support [#925](https://github.com/apollographql/apollo-tooling/pull/925)
+- `apollo-language-server`
+  - Fix language server mis-reporting client identity for schema loading operation [#940](https://github.com/apollographql/apollo-tooling/pull/940)
+- `vscode-apollo`
+  - Fix graphql comments not being highlighted correctly [#907](https://github.com/apollographql/apollo-tooling/pull/907)
 
 ## `apollo@2.3.1`
 
